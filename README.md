@@ -8,6 +8,7 @@ Este projeto faz parte da disciplina tal Projeto Integrador 2, onde estamos abor
 # CURRÍCULO BÁSICO
 
 [Currículo Lattes](https://lattes.cnpq.br/9806628996695773)
+
 [Perfil no linkedin](www.linkedin.com/in/aline-xavier-9047b7317)
 
 ## DADOS PESSOAIS
