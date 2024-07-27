@@ -49,7 +49,7 @@ Carga horária: 40h.\
 Carga horária: 160h.\
 [Certificado referênte a atividade](c3.pdf)
 
-12. CLUBE DE LIBRAS\
+12. Participei do CLUBE DE LIBRAS como ouvinte\
 Carga horária: 60h.\
 [Certificado referênte a atividade](c2.pdf)
 
