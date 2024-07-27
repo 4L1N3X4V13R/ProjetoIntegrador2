@@ -15,7 +15,7 @@ Este projeto faz parte da disciplina tal Projeto Integrador 2, onde estamos abor
 
 Nome: Aline Xavier Moraes\
 Idade: 17\
-E-mail: leanpatty365@gmail.com\
+E-mail: leanpatty365@gmail.com
 
 ## FORMAÇÃO ACADÊMICA
 
@@ -24,26 +24,34 @@ Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campu
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1. Como se tornar um estudante de alta performance\
-Carga horária: 2h.
+1. Participei da palestra "Como se tornar um estudante de alta performance" como ouvinte\
+Carga horária: 2h.\
+[Certificado referênte a atividade](c4.pdf)
 
-2. As evoluções históricas dos computadores\
-Carga horária: 2h.
+3. Participei como observador na exposição intitulada "As evoluções históricas dos computadores", no Intituto Federal de Educação Ciência e Tecnologia do Amazonas - IFAM Campus Eirunepé\
+Carga horária: 2h.\
+[Certificado referênte a atividade](c6.pdf)
 
-3. O homem bicentenário\
-Carga horária: 3h.
+4. Participei da parlestra "O homem bicentenário"\
+Carga horária: 3h.\
+[Certificado referênte a atividade](c7.pdf)
 
-4. PIBIC 2021/2022 e PIBEX 2021\
-Carga horária: 4h.
+6.  Participei como ouvinte das apresentações de PIBIC 2021/2022 e PIBEX 2021 do Intituto Federal de Educação Ciência e Tecnologia do Amazonas - IFAM Campus Eirunepé\
+Carga horária: 4h.\
+[Certificado referênte a atividade](c5.pdf)
 
-5. EXPOSIÇÃO -SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ\
-Carga horária: 40h.
+8. Participei da palestra intitulada "Prevenção da gravidez na adolescência" como ouvinte, ministrado
+pelo setor de saúde da ubs gezita com apoio do setor de saúde do IFAM Campus Eirunepé
+Carga horária: 40h.\
+[Certificado referênte a atividade](c1.pdf)
 
-6. Monitoria de Filosofia\
-Carga horária: 160h.
+10. Participei da Monitoria de Filosofia como bolsista no ano de 2022, no Intituto Federal de Educação Ciência e Tecnologia do Amazonas - IFAM Campus Eirunepé\
+Carga horária: 160h.\
+[Certificado referênte a atividade](c3.pdf)
 
-7. CLUBE DE LIBRAS\
-Carga horária: 60h.
+12. CLUBE DE LIBRAS\
+Carga horária: 60h.\
+[Certificado referênte a atividade](c2.pdf)
 
 
 
